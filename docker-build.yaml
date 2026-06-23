@@ -25,4 +25,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: sharmamanoj0654/demo-nginx:latest
+        tags: sharmamanoj0654/allianz-repo:latest
